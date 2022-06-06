@@ -1,4 +1,5 @@
 # Hermes - Connecting IBC Enabled Blockchains Demo
+# Inter Blockchain Communication Tutorial (using Cosmos IBC and relayer)
 
 ## Introduction
 
